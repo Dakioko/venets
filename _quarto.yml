@@ -1,7 +1,6 @@
 project:
   type: website
-  resources:
-    - "/_redirects"
+  output-dir: docs
 
 website:
   title: "Stephen Kioko"

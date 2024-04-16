@@ -7,13 +7,6 @@
     "text": "Hi , I am  Stephen Kioko, a Software Developer & Data Analyst\nI am a software developer proficient in Python, C++, and Visual Basic. My expertise extends to data analysis using Python and visualization with Looker Studio. With a background in teaching at the university level, I’ve instructed courses ranging from introductory computer science to specialized topics like Decision Support Systems.\nSkills:\n\nProgramming Languages: Python, C++, Visual Basic\nData Analysis: Pandas, NumPy, Matplotlib, Seaborn\nDatabase Management: SQL, MySQL, SQLite\nVisualization Tools: Looker Studio, Tableau\nSpreadsheet Tools: Excel, Google Sheets"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "services.html",
     "href": "services.html",
     "title": "Services",
