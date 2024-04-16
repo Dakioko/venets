@@ -1,0 +1,47 @@
+project:
+  type: website
+  resources:
+    - "/_redirects"
+
+website:
+  title: "Stephen Kioko"
+  navbar:
+    pinned: true
+    logo: /img/logo.jpg
+    right:
+      - href: index.qmd
+        text: Home
+      - services.qmd
+      - projects.qmd
+    
+
+   # right:
+     
+    
+  search: 
+    location: navbar
+    #type: textbox
+  
+  page-footer: 
+    left: "Steve Da Kioko"  
+    right: 
+      - icon: twitter
+        href: https://twitter.com/kioko_steve
+      - icon: github
+        href: https://github.com/Dakioko
+      - icon: linkedin
+        href: https://www.linkedin.com/in/kioko-steve/
+      - icon: envelope
+        aria-label: email
+        href: mailto:stevedakioko@gmail.com
+    border: true
+    background: "light" 
+  
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+
+
+
