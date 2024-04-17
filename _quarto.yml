@@ -3,27 +3,22 @@ project:
   output-dir: docs
 
 website:
-  title: "Stephen Kioko"
+  favicon: logo.png
+  title: "Dakioko"
   navbar:
     pinned: true
-    logo: /img/logo.jpg
+    #logo: /img/logo.jpg
     right:
       - href: index.qmd
         text: Home
       - services.qmd
-      - projects.qmd
-    
-
-   # right:
-     
-    
+      - portfolio.qmd
   search: 
     location: navbar
     #type: textbox
   
   page-footer: 
-    left: "Steve Da Kioko"  
-    right: 
+    center: 
       - icon: twitter
         href: https://twitter.com/kioko_steve
       - icon: github
@@ -34,11 +29,12 @@ website:
         aria-label: email
         href: mailto:stevedakioko@gmail.com
     border: true
-    background: "light" 
+    background: "#111"
   
 format:
   html:
-    theme: flatly
+    theme:
+      light: cosmo
     css: styles.css
     toc: true
 
