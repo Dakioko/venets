@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Dakioko",
     "section": "",
-    "text": "Skills\n\n\n\n\nProgramming Languages: Python, C, C++, C#, Java,\nData Analysis: Pandas, NumPy, Matplotlib, Seaborn, R\nDatabase Management: SQL, MySQL, SQLite\nVisualization Tools: Looker Studio, Shiny Dashboard\nSpreadsheet Tools: Excel, Google Sheets"
+    "text": "A Software Engineer with a passion for Data Analysis and Machine Learning, turning code into insights and innovation.\n\n\n\n\n\n\n\nSkills\n\n\n\n\nProgramming Languages: Python, C, C++, C#, Java,\nData Analysis: Pandas, NumPy, Matplotlib, Seaborn, R\nDatabase Management: SQL, MySQL, SQLite\nVisualization Tools: Looker Studio, Shiny Dashboard\nSpreadsheet Tools: Excel, Google Sheets"
   },
   {
     "objectID": "services.html",
     "href": "services.html",
     "title": "Services",
     "section": "",
-    "text": "Hi 👋, I am  Stephen Kioko\n\n🔭 I’m currently working on Django Projects\n👯 I’m looking to collaborate on Python\n💬 Ask me about Data Visualizations\n📫 How to reach me: LinkedIn &gt; ⚡ Fun fact: No matter which field of work you want to go in, it is of great importance to learn at least one programming language. ― Ram Ray"
+    "text": "University Instruction:\n\n\n\n\n\nAs a seasoned educator, I specialize in teaching programming and related courses at the university level. With a focus on fostering a deep understanding of core concepts, I empower students to excel in their academic pursuits and beyond.\n\n\n\n\n\n\n\n\n\nVirtual Assistant Solutions:\n\n\n\n\n\nNeed assistance streamlining your processes? I’m here to help. From crafting comprehensive Standard Operating Procedures (SOPs) to managing administrative tasks, my virtual assistant services ensure smooth operations for your business or organization.\n\n\n\n\n\n\n\n\n\nExam Compilation Software Installation:\n\n\n\n\n\nEnhance your educational institution’s efficiency with seamless exam compilation software installation. I specialize in setting up user-friendly platforms tailored to secondary school needs, facilitating smoother exam administration and assessment processes.\n\n\n\n\n\n\n\n\n\nSpreadsheet Expertise:\n\n\n\n\n\nUnlock the full potential of your data with my spreadsheet services. Whether it’s organizing, analyzing, or visualizing data, I leverage advanced spreadsheet techniques to deliver actionable insights and drive informed decision-making.\n\n\n\n\n\n\n\n\n\nData Analysis and Visualization:\n\n\n\n\n\nHarness the power of Python libraries like Pandas and NumPy for robust data analysis. From data wrangling to statistical analysis, I provide comprehensive solutions to extract meaningful insights from your datasets. Elevate your data storytelling with captivating visualizations created using Matplotlib, Plotly, and Seaborn, transforming complex data into visually engaging narratives that drive understanding and business growth."
   },
   {
     "objectID": "projects.html",
@@ -26,5 +26,40 @@
     "title": "Portfolio",
     "section": "",
     "text": "Hi , I am Stephen Kioko, a Software Developer & Data Analyst\nI am a software developer proficient in Python, C++, and Visual Basic. My expertise extends to data analysis using Python and visualization with Looker Studio. With a background in teaching at the university level, I’ve instructed courses ranging from introductory computer science to specialized topics like computer applications in pharmacy.\nSkills:\n\nProgramming Languages: Python, C++, Visual Basic\nData Analysis: Pandas, NumPy, Matplotlib, Seaborn\nDatabase Management: SQL, MySQL, SQLite\nVisualization Tools: Looker Studio, Tableau\nSpreadsheet Tools: Excel, Google Sheets"
+  },
+  {
+    "objectID": "portfolio.html#university-instruction",
+    "href": "portfolio.html#university-instruction",
+    "title": "Services",
+    "section": "",
+    "text": "As a seasoned educator, I specialize in teaching programming and related courses at the university level. With a focus on fostering a deep understanding of core concepts, I empower students to excel in their academic pursuits and beyond."
+  },
+  {
+    "objectID": "portfolio.html#virtual-assistant-solutions",
+    "href": "portfolio.html#virtual-assistant-solutions",
+    "title": "Services",
+    "section": "",
+    "text": "Need assistance streamlining your processes? I’m here to help. From crafting comprehensive Standard Operating Procedures (SOPs) to managing administrative tasks, my virtual assistant services ensure smooth operations for your business or organization."
+  },
+  {
+    "objectID": "portfolio.html#exam-compilation-software-installation",
+    "href": "portfolio.html#exam-compilation-software-installation",
+    "title": "Services",
+    "section": "",
+    "text": "Enhance your educational institution’s efficiency with seamless exam compilation software installation. I specialize in setting up user-friendly platforms tailored to secondary school needs, facilitating smoother exam administration and assessment processes."
+  },
+  {
+    "objectID": "portfolio.html#spreadsheet-expertise",
+    "href": "portfolio.html#spreadsheet-expertise",
+    "title": "Services",
+    "section": "",
+    "text": "Unlock the full potential of your data with my spreadsheet services. Whether it’s organizing, analyzing, or visualizing data, I leverage advanced spreadsheet techniques to deliver actionable insights and drive informed decision-making."
+  },
+  {
+    "objectID": "portfolio.html#data-analysis-and-visualization",
+    "href": "portfolio.html#data-analysis-and-visualization",
+    "title": "Services",
+    "section": "",
+    "text": "Harness the power of Python libraries like Pandas and NumPy for robust data analysis. From data wrangling to statistical analysis, I provide comprehensive solutions to extract meaningful insights from your datasets. Elevate your data storytelling with captivating visualizations created using Matplotlib, Plotly, and Seaborn, transforming complex data into visually engaging narratives that drive understanding and business growth."
   }
 ]

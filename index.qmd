@@ -7,6 +7,7 @@ about:
     image-shape: rounded
     image-width: 50em
 ---
+<h6>A Software Engineer with a passion for Data Analysis and Machine Learning, turning code into insights and innovation.</h6>
 
 ::: {.callout-tip}
 ## Skills
