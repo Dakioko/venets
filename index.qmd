@@ -3,10 +3,12 @@ page-layout: full
 image: "img/sk.png"
 toc: false
 about: 
+    id: hero-heading
     template: trestles
     image-shape: rounded
     image-width: 50em
 ---
+:::{#hero-heading}
 <h6>A Software Engineer with a passion for Data Analysis and Machine Learning, turning code into insights and innovation.</h6>
 
 ::: {.callout-tip}
@@ -17,4 +19,5 @@ about:
 - Database Management: SQL, MySQL, SQLite
 - Visualization Tools: Looker Studio, Shiny Dashboard
 - Spreadsheet Tools: Excel, Google Sheets
+:::
 :::

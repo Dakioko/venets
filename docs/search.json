@@ -25,7 +25,7 @@
     "href": "portfolio.html",
     "title": "Portfolio",
     "section": "",
-    "text": "Hi , I am Stephen Kioko, a Software Developer & Data Analyst\nI am a software developer proficient in Python, C++, and Visual Basic. My expertise extends to data analysis using Python and visualization with Looker Studio. With a background in teaching at the university level, I’ve instructed courses ranging from introductory computer science to specialized topics like computer applications in pharmacy.\nSkills:\n\nProgramming Languages: Python, C++, Visual Basic\nData Analysis: Pandas, NumPy, Matplotlib, Seaborn\nDatabase Management: SQL, MySQL, SQLite\nVisualization Tools: Looker Studio, Tableau\nSpreadsheet Tools: Excel, Google Sheets"
+    "text": "For a demonstration of a line plot on a polar axis, see Figure 1.\n\n\nCode\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(\n  subplot_kw = {'projection': 'polar'} \n)\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()\n\n\n\n\n\n\n\n\nFigure 1: A line plot on a polar axis"
   },
   {
     "objectID": "portfolio.html#university-instruction",
