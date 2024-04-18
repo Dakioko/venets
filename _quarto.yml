@@ -1,9 +1,12 @@
 project:
   type: website
   output-dir: docs
+  preview:
+    port: 4050
 
 website:
   favicon: logo.png
+  twitter-card: true
   title: "Dakioko"
   navbar:
     pinned: true
@@ -11,8 +14,8 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - services.qmd
-      - portfolio.qmd
+      - services/index.qmd
+      - portfolio/index.qmd
   search: 
     location: navbar
     #type: textbox
