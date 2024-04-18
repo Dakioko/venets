@@ -9,7 +9,7 @@ about:
     image-width: 50em
 ---
 :::{#hero-heading}
-<h6>A Software Engineer with a passion for Data Analysis and Machine Learning, turning code into insights and innovation.</h6>
+<h5>A Software Engineer with a passion for Data Analysis and Machine Learning, turning code into insights and innovation.</h5>
 
 ::: {.callout-tip}
 ## Skills
@@ -21,3 +21,27 @@ about:
 - Spreadsheet Tools: Excel, Google Sheets
 :::
 :::
+### What I Do
+::: {.callout-tip collapse="true"}
+## University Instruction:
+   As a seasoned educator, I specialize in teaching programming and related courses at the university level. With a focus on fostering a deep understanding of core concepts, I empower students to excel in their academic pursuits and beyond.
+:::
+::: {.callout-tip collapse="true"}
+## Virtual Assistant Solutions:
+   Need assistance streamlining your processes? I'm here to help. From crafting comprehensive Standard Operating Procedures (SOPs) to managing administrative tasks, my virtual assistant services ensure smooth operations for your business or organization.
+:::
+::: {.callout-tip collapse="true"}
+## Exam Compilation Software Installation:
+   Enhance your educational institution's efficiency with seamless exam compilation software installation. I specialize in setting up user-friendly platforms tailored to secondary school needs, facilitating smoother exam administration and assessment processes.
+:::
+::: {.callout-tip collapse="true"}
+## Spreadsheet Expertise:
+   Unlock the full potential of your data with my spreadsheet services. Whether it's organizing, analyzing, or visualizing data, I leverage advanced spreadsheet techniques to deliver actionable insights and drive informed decision-making.
+:::
+::: {.callout-tip collapse="true"}
+## Data Analysis and Visualization:
+   Harness the power of Python libraries like Pandas and NumPy for robust data analysis. From data wrangling to statistical analysis, I provide comprehensive solutions to extract meaningful insights from your datasets. Elevate your data storytelling with captivating visualizations created using Matplotlib, Plotly, and Seaborn, transforming complex data into visually engaging narratives that drive understanding and business growth.
+:::
+            
+
+

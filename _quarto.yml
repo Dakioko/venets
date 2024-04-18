@@ -14,7 +14,7 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - services/index.qmd
+      #- services/index.qmd
       - portfolio/index.qmd
   search: 
     location: navbar

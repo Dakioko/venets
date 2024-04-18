@@ -1,5 +1,6 @@
 --- 
 title: "Portfolio"
+page-layout: article
 ---
 
 Everyone wants to be a beast until it is time to do what beasts do.
@@ -15,3 +16,4 @@ Everyone wants to be a beast until it is time to do what beasts do.
 ![](image-4.jpg)
 
 :::
+{{< video MW_32.mp4 >}}
