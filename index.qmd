@@ -21,27 +21,102 @@ about:
 - Spreadsheet Tools: Excel, Google Sheets
 :::
 :::
-### What I Do
-::: {.callout-tip collapse="true"}
-## University Instruction:
-   As a seasoned educator, I specialize in teaching programming and related courses at the university level. With a focus on fostering a deep understanding of core concepts, I empower students to excel in their academic pursuits and beyond.
-:::
-::: {.callout-tip collapse="true"}
-## Virtual Assistant Solutions:
-   Need assistance streamlining your processes? I'm here to help. From crafting comprehensive Standard Operating Procedures (SOPs) to managing administrative tasks, my virtual assistant services ensure smooth operations for your business or organization.
-:::
-::: {.callout-tip collapse="true"}
-## Exam Compilation Software Installation:
-   Enhance your educational institution's efficiency with seamless exam compilation software installation. I specialize in setting up user-friendly platforms tailored to secondary school needs, facilitating smoother exam administration and assessment processes.
-:::
-::: {.callout-tip collapse="true"}
-## Spreadsheet Expertise:
-   Unlock the full potential of your data with my spreadsheet services. Whether it's organizing, analyzing, or visualizing data, I leverage advanced spreadsheet techniques to deliver actionable insights and drive informed decision-making.
-:::
-::: {.callout-tip collapse="true"}
-## Data Analysis and Visualization:
-   Harness the power of Python libraries like Pandas and NumPy for robust data analysis. From data wrangling to statistical analysis, I provide comprehensive solutions to extract meaningful insights from your datasets. Elevate your data storytelling with captivating visualizations created using Matplotlib, Plotly, and Seaborn, transforming complex data into visually engaging narratives that drive understanding and business growth.
-:::
+<!-- My services -->
+<section class="my-services" id="services">
+<h2 class="section__title section__title--services">What I do</h2>
+<div class="services">
+<div class="service">
+<h3>Design + Development</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+</div> <!-- / service -->
+
+<div class="service">
+<h3>E-Commerce</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+</div> <!-- / service -->
+
+<div class="service">
+<h3>WordPress</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+</div> <!-- / service -->
+</div> <!-- / services -->
+
+<a href="#work" class="btn">My Work</a>
+</section>
+
+<!-- About me -->
+<section class="about-me" id="about">
+<h2 class="section__title section__title--about">Who I am</h2>
+<p class="section__subtitle section__subtitle--about">Designer & developer based in Kenya</p>
+
+<div class="about-me__body">
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+</div>
+
+<img src="img/stand_kioko.jpg" alt="Jane leaning against a bus" class="about-me__img">
+</section>
+
+<!-- My Work -->
+<section class="my-work" id="work">
+<h2 class="section__title section__title--work">My work</h2>
+<p class="section__subtitle section__subtitle--work">A selection of my range of work</p>
+
+<div class="portfolio">
+<!-- Portfolio item 01 -->
+<a href="portfolio-item.html" class="portfolio__item">
+<img src="img/portfolio-01.jpg" alt="" class="portfolio__img">
+</a>
+
+<!-- Portfolio item 02 -->
+<a href="portfolio-item.html" class="portfolio__item">
+<img src="img/portfolio-02.jpg" alt="" class="portfolio__img">
+</a>
+
+<!-- Portfolio item 03 -->
+<a href="portfolio-item.html" class="portfolio__item">
+<img src="img/portfolio-03.jpg" alt="" class="portfolio__img">
+</a>
+
+<!-- Portfolio item 04 -->
+<a href="portfolio-item.html" class="portfolio__item">
+<img src="img/portfolio-04.jpg" alt="" class="portfolio__img">
+</a>
+
+<!-- Portfolio item 05 -->
+<a href="portfolio-item.html" class="portfolio__item">
+<img src="img/portfolio-05.jpg" alt="" class="portfolio__img">
+</a>
+
+<!-- Portfolio item 06 -->
+<a href="portfolio-item.html" class="portfolio__item">
+<img src="img/portfolio-06.jpg" alt="" class="portfolio__img">
+</a>
+
+<!-- Portfolio item 07 -->
+<a href="portfolio-item.html" class="portfolio__item">
+<img src="img/portfolio-07.jpg" alt="" class="portfolio__img">
+</a>
+
+<!-- Portfolio item 08 -->
+<a href="#" class="portfolio__item">
+<img src="img/portfolio-08.jpg" alt="" class="portfolio__img">
+</a>
+
+<!-- Portfolio item 09 -->
+<a href="#" class="portfolio__item">
+<img src="img/portfolio-09.jpg" alt="" class="portfolio__img">
+</a>
+
+<!-- Portfolio item 0 0-->
+<a href="#" class="portfolio__item">
+<img src="img/portfolio-10.jpg" alt="" class="portfolio__img">
+</a>
+</div>
+</section>
+<script src="js/script.js"></script>
+</body>
+</html>
             
 
 
