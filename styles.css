@@ -7,20 +7,25 @@
 /* Custom Properties, update these for your own design */
 
 :root {
-    --ff-primary: 'Source Sans Pro', sans-serif;
+    --ff-primary: 'Lato', sans-serif;
     --ff-secondary: 'Source Code Pro', monospace;
     
-    --fw-reg: 300;
+    --fw-reg: 200;
     --fw-bold: 900;
     
     --clr-light: #fff;
     --clr-dark: #303030;
     --clr-accent: #16e0bd;
+    --clr-light-gray: #F1F1F1;
+    --clr-blue: #3498db;
+    --clr-green: #2ecc71;
+    --clr-purple: #9b59b6;
+    --clr-dark-gray: #323232;
     
     --fs-h1: 3rem;
     --fs-h2: 2.25rem;
     --fs-h3: 1.25rem;
-    --fs-body: 1rem;
+    --fs-body: 0.5em;
     
     --bs: 0.25em 0.25em 0.75em rgba(0,0,0,.25),
           0.125em 0.125em 0.25em rgba(0,0,0,.15);
@@ -185,11 +190,11 @@ h3 { font-size: var(--fs-h3) }
 /*  My services section  */
 
 .my-services {
-    background-color: var(--clr-dark);
+    background-color: var(--clr-light-gray);
     background-image: url(../img/services-bg.jpg);
     background-size: cover;
     /*background-blend-mode: multiply;*/ 
-    color: var(--clr-light);
+    color: var(--clr-dark);
     text-align: center;
 }
 
@@ -275,8 +280,8 @@ h3 { font-size: var(--fs-h3) }
 /* My Work */
 
 .my-work {
-    background-color: var(--clr-dark);
-    color: var(--clr-light);
+    background-color: var(--clr-light-gray);
+    color: var(--clr-dark);
     text-align: center;    
 }
 
