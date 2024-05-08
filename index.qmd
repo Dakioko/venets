@@ -63,56 +63,38 @@ about:
 <p class="section__subtitle section__subtitle--work">A selection of my range of work</p>
 
 <div class="portfolio">
-<!-- Portfolio item 01 -->
-<a href="portfolio-item.html" class="portfolio__item">
-<img src="portfolio/image-1.png" alt="" class="portfolio__img">
-</a>
-
-<!-- Portfolio item 02 -->
-<a href="portfolio-item.html" class="portfolio__item">
-<img src="portfolio/image-2.png" alt="" class="portfolio__img">
-</a>
-
-<!-- Portfolio item 03 -->
-<a href="portfolio-item.html" class="portfolio__item">
-<img src="portfolio/image-3.png" alt="" class="portfolio__img">
-</a>
-
 <!-- Portfolio item 04 -->
-<a href="portfolio-item.html" class="portfolio__item">
+<a href="portfolio/index.html" class="portfolio__item">
 <img src="img/portfolio-04.jpg" alt="" class="portfolio__img">
 </a>
 
 <!-- Portfolio item 05 -->
-<a href="portfolio-item.html" class="portfolio__item">
+<a href="portfolio/index.html" class="portfolio__item">
 <img src="img/portfolio-05.jpg" alt="" class="portfolio__img">
 </a>
 
 <!-- Portfolio item 06 -->
-<a href="portfolio-item.html" class="portfolio__item">
+<a href="portfolio/index.html" class="portfolio__item">
 <img src="img/portfolio-06.jpg" alt="" class="portfolio__img">
 </a>
 
 <!-- Portfolio item 07 -->
-<a href="portfolio-item.html" class="portfolio__item">
+<a href="portfolio.html" class="portfolio__item">
 <img src="img/portfolio-07.jpg" alt="" class="portfolio__img">
 </a>
 
 <!-- Portfolio item 08 -->
-<a href="#" class="portfolio__item">
+<a href="portfolio/index.html" class="portfolio__item">
 <img src="img/portfolio-08.jpg" alt="" class="portfolio__img">
 </a>
 
 <!-- Portfolio item 09 -->
-<a href="#" class="portfolio__item">
+<a href="portfolio/index.html" class="portfolio__item">
 <img src="img/portfolio-09.jpg" alt="" class="portfolio__img">
 </a>
 
-<!-- Portfolio item 0 0-->
-<a href="#" class="portfolio__item">
-<img src="img/portfolio-10.jpg" alt="" class="portfolio__img">
-</a>
 </div>
+<a href="portfolio/index.html" class="btn">See More</a>
 </section>
 <script src="js/script.js"></script>
 </body>
