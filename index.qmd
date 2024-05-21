@@ -9,7 +9,7 @@ about:
     image-width: 50em
 ---
 :::{#hero-heading}
-<h5>A Software Engineer with a passion for Data Analysis and Machine Learning, turning code into insights and innovation.</h5>
+<h5>Hello! I'm Stephen Kioko, a data scientist with expertise in machine learning, data visualization, and statistical analysis. Explore my portfolio to see the projects I've worked on and learn more about my professional journey.</h5>
 
 ::: {.callout-tip}
 ## Skills

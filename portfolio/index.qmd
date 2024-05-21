@@ -4,19 +4,17 @@ page-layout: full
 ---
 ::: {layout-ncol=2}
 
+![](Trending.jpg)
+
+![](Budget.jpg)
+
+:::
+
+::: {layout-ncol=2}
+
 {{< video MW_36.mp4 >}}
 {{< video https://www.youtube.com/embed/wo9vZccmqwc 
     title='What is the CERN?' 
 >}}
-
-:::
-::: {layout-ncol=2}
-
-![](image-1.png)
-
-![](image-2.png)
-
-![](image-3.png)
-
 
 :::
