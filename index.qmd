@@ -29,8 +29,8 @@ about:
 <p class="section__subtitle section__subtitle--about">Designer & developer based in Kenya</p>
 
 <div class="about-me__body">
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<p> I am a technology expert based in Nairobi. With a strong passion for leveraging technology to solve complex problems, I specialize in software development, data analysis, and technical writing.</p>
+<p>My expertise spans multiple programming languages, web development, data visualization, and database management. I thrive on delivering high-quality solutions and continuously exploring new developments in the tech world. Let's connect and innovate together!</p>
 </div>
 
 <img src="img/stand_kioko.jpg" alt="Jane leaning against a bus" class="about-me__img">

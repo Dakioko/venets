@@ -12,9 +12,10 @@ page-layout: full
 
 ::: {layout-ncol=2}
 
-{{< video MW_36.mp4 >}}
+{{< video MW_38.mp4 >}}
 {{< video https://www.youtube.com/embed/wo9vZccmqwc 
     title='What is the CERN?' 
 >}}
+{{< video June_10.mp4 >}}
 
 :::
