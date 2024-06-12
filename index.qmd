@@ -9,6 +9,7 @@ about:
     image-width: 50em
 ---
 :::{#hero-heading}
+
 <h5>Hello! I'm Stephen Kioko, a data scientist with expertise in machine learning, data visualization, and statistical analysis. Explore my portfolio to see the projects I've worked on and learn more about my professional journey.</h5>
 
 ::: {.callout-tip}
@@ -24,6 +25,7 @@ about:
 
 
 <!-- About me -->
+<div class="container">
 <section class="about-me" id="about">
 <h2 class="section__title section__title--about">Who I am</h2>
 <p class="section__subtitle section__subtitle--about">Designer & developer based in Kenya</p>
@@ -35,7 +37,8 @@ about:
 
 <img src="img/stand_kioko.jpg" alt="Jane leaning against a bus" class="about-me__img">
 </section>
-
+</div>
+<div class="container">
 <!-- My Work -->
 <section class="my-work" id="work">
 <h2 class="section__title section__title--work">My work</h2>
@@ -75,6 +78,7 @@ about:
 </div>
 <a href="portfolio/index.html" class="btn">See More</a>
 </section>
+</div>
 <script src="js/script.js"></script>
 </body>
 </html>
