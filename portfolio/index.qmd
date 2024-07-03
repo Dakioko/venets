@@ -4,9 +4,9 @@ page-layout: full
 ---
 ::: {layout-ncol=2}
 
-![](Trending.jpg)
+![](image-3.png)
 
-![](Budget.jpg)
+![](image-1.png)
 
 :::
 
