@@ -74,6 +74,6 @@
     "href": "portfolio/index.html",
     "title": "Portfolio",
     "section": "",
-    "text": "&lt;!DOCTYPE html&gt;\n\n\n\n\n\nStephen Kioko - Data Scientist\n\n\n\n\n\n\nStephen Kioko\n\n\nData Scientist | Machine Learning | Data Visualization | Statistical Analysis\n\n\n\n\n\nAbout Me\n\n\nI’m Stephen Kioko, a data scientist with expertise in machine learning, data visualization, and statistical analysis. Explore my portfolio to see the projects I’ve worked on and learn more about my professional journey.\n\n\n\n\nSkills\n\n\n\nProgramming Languages: Python, C, C++, C#, Java\n\n\nData Analysis: Pandas, NumPy, Matplotlib, Seaborn, R\n\n\nDatabase Management: SQL, MySQL, SQLite\n\n\nVisualization Tools: Looker Studio, Shiny Dashboard\n\n\nSpreadsheet Tools: Excel, Google Sheets\n\n\n\n\n\nContact\n\n\n\nTwitter: @kioko_steve\n\n\nGitHub: Dakioko\n\n\nLinkedIn: kioko-steve\n\n\n\n\n\n\n© 2024 Stephen Kioko. All rights reserved."
+    "text": "::: {layout-ncol=2}"
   }
 ]
