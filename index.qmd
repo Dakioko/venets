@@ -10,7 +10,7 @@ about:
 ---
 :::{#hero-heading}
 
-<h5>Hello! I'm **Stephen Kioko**, a software engineer with a strong passion for machine learning and software development. I specialize in building intelligent systems, crafting data-driven solutions, and creating impactful user experiences. Explore my portfolio to discover the projects I've worked on and learn more about my professional journey.</h5>
+<h5>Hello! I'm **Stephen Kioko**, a software engineer with a strong passion for machine learning and software development. I specialize in building intelligent systems, crafting data-driven solutions, and creating impactful user experiences. </h5>
 
 ::: {.callout-tip}
 ## Skills
@@ -42,7 +42,7 @@ about:
 <!-- My Work -->
 <section class="my-work" id="work">
 <h2 class="section__title section__title--work">My work</h2>
-<p class="section__subtitle section__subtitle--work">A selection of my range of work</p>
+<p>Explore my portfolio to discover the projects I've worked on and learn more about my professional journey.</p>
 
 <div class="portfolio">
 <!-- Portfolio item 04 -->
