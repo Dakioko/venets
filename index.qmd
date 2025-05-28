@@ -10,7 +10,7 @@ about:
 ---
 :::{#hero-heading}
 
-<h5>Hello! I'm **Stephen Kioko**, a software engineer with a strong passion for machine learning and software development. I specialize in building intelligent systems, crafting data-driven solutions, and creating impactful user experiences. </h5>
+<h5>I'm a **software engineer** with a strong passion for machine learning and software development. I specialize in building intelligent systems, crafting data-driven solutions, and creating impactful user experiences. </h5>
 
 ::: {.callout-tip}
 ## Skills
