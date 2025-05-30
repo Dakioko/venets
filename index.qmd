@@ -10,7 +10,7 @@ about:
 ---
 :::{#hero-heading}
 
-<h5>I'm a **software engineer** with a strong passion for machine learning and software development. I specialize in building intelligent systems, crafting data-driven solutions, and creating impactful user experiences. </h5>
+<h5>I’m a software engineer with a strong passion for machine learning and software development.I specialize in building practical, data-driven applications and delivering user-focused software solutions. With a focus on practical problem-solving, I develop scalable systems that turn ideas into reliable, real-world solutions. </h5>
 
 ::: {.callout-tip}
 ## Skills
